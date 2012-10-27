@@ -5,6 +5,11 @@ gem 'rails', '3.2.8'
 # Bundle edge Rails instead:
 # gem 'rails', :git => 'git://github.com/rails/rails.git'
 
+#
+# Try to install Autotest and Spork at some point
+# Look at Section 3.2.2 in the Learn Rails by Example book 
+#
+
 gem 'sqlite3'
 
 group :development do
